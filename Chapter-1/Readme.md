@@ -45,10 +45,17 @@ Variables
 <var> alcance global
 <let> Limita el alcance del scope 
 <const> constante 
+TIPOS DE DATOS PRIMITIVOS
 string = cadena de texto 
 Texto cualquiera
 number = numeros
 booleanos = true o false 
 casos especiales de datos: undefined, null, NaN
 -----------------------------------------------------------------------------------------------------------------
+Operadores 
+ASIGNACION
+Un operador asigna un valor al operando de la izquierda basado en el operando de la derecha
+
+ARITMETICOS
+Toman valores numericos como sus operandos y retoran valor numerico unico
 
